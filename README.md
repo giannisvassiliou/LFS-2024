@@ -1,4 +1,4 @@
-# ICDE_2024_LFS
+# LFS
  The increasing number of large knowledge graphs
  now available online requires methods for their effective and
  efficient exploration. Most of these knowledge graphs offer
