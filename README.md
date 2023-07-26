@@ -1,4 +1,4 @@
-# LFS
+# LFS(Love-at-First-Sight) 
  The increasing number of large knowledge graphs
  now available online requires methods for their effective and
  efficient exploration. Most of these knowledge graphs offer
