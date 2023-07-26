@@ -22,8 +22,10 @@
  and they can efficiently provide answers to the first-sight query
  answering the problem, highly increasing the response time for
  query answering over online SPARQL endpoints.
- 
+ <p align="center">
 ![alt text](https://github.com/giannisvassiliou/ICDE_2024_LFS/blob/main/imag1.JPG)
+
+</p>
 <p align="center">
   <img src="https://github.com/giannisvassiliou/ICDE_2024_LFS/blob/main/imag1.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
