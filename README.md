@@ -28,3 +28,10 @@
 <p align="center">
   <img src="https://github.com/giannisvassiliou/LFS-ICDE-2024/blob/main/Architecture.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
+
+## LFS Parser
+
+Firstly we need to create the data accessing the endpoint of the desired dataset. The creator.py script has one input argument. will run and create two files (given as arguments). 
+The input argument is the query log of the dataset we are interested in.
+
+The First output file will be the answered queries from the endpoint. The second output file will be the corresponing queries for the previous answers
