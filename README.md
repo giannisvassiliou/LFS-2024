@@ -25,5 +25,5 @@
  
 ![alt text](https://github.com/giannisvassiliou/ICDE_2024_LFS/blob/main/imag1.JPG)
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/giannisvassiliou/ICDE_2024_LFS/blob/main/imag1.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
