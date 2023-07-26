@@ -31,7 +31,7 @@
 
 ## LFS Parser
 
-Firstly we need to create the data accessing the endpoint of the desired dataset. The creator.py script has <b> two </b? input arguments. It will create two files (given as arguments too). 
+Firstly we need to create the data accessing the endpoint of the desired dataset. The creator.py script has <b> two </b> input arguments. It will create two files (given as arguments too). 
 The input argument is the query log of the dataset we are interested in.
 
 The First output file will be the answered queries from the endpoint. The second output file will be the corresponing queries for the previous answers
