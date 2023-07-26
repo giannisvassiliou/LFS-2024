@@ -22,5 +22,5 @@
  and they can efficiently provide answers to the first-sight query
  answering the problem, highly increasing the response time for
  query answering over online SPARQL endpoints.
-![alt text](https://github.com/giannisvassiliou/ICDE_2024_LFS/edit/main/image.jpg?raw=true)
+![alt text](https://github.com/giannisvassiliou/ICDE_2024_LFS/edit/main/imag1.JPG?raw=true)
 
