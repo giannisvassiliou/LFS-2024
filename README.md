@@ -31,12 +31,12 @@
 
 ## LFS Data Creator
 
-Firstly we need to create the data accessing the endpoint of the desired dataset. The parsetIT.py script has the following syntax
-<br><b> USAGE parsertIT queryfile {flag0/1 mf or non mf}  {basefilename} {limit} {urlendpoint} </b>
+Firstly we need to create the data by accessing the endpoint of the desired dataset. The parserIT.py script has the following syntax
+<br><b> USAGE parsertIT queryfile {flag 0/1 mf or non mf}  {basefilename} {limit} {urlendpoint} </b>
 
 where
 <li>
-queryfile : The name of the original querylog (see data e.g YAGO_orig_quer.txt) 
+queryfile : The name of the original querylog (see data folder, choose e.g YAGO_orig_quer.txt) 
 </li>
 <li>
 flag : 0 or 1  whether we need most frequent results 1 (yes) or  0(no)
