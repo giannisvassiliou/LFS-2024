@@ -33,7 +33,7 @@
 
 Firstly we need to create the data by accessing the endpoint of the desired dataset. The parserIT.py script has the following syntax
 <br>
-<br><b> USAGE:  parsertIT queryfile {flag 1/0 m(ost) f(requent) or non mf}  {basefilename} {limit} {urlendpoint} </b>
+<br><b> USAGE:  parserIT queryfile {flag 1/0 m(ost) f(requent) or non mf}  {basefilename} {limit} {urlendpoint} </b>
 <br>
 <br>
 <b>
