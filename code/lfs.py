@@ -25,7 +25,7 @@ fla=0
 if len(argv)<3:
     
     print("You need to provide two INPUT files (lfs_summary_filename lfs_queries_for_summary) and one filename for OUTPUT  and finally address_of_endpoint{OPTIONAL} ")
-    print("USAGE: python lfs lfs_summary_filename lfs_queries_for_summary LFS_summary_output {url of endpoint-optional) ")
+    print("USAGE: python lfs orig_summary_filename queries_for_summary LFS_summary_output {url of endpoint-optional) ")
     exit(1)
 else:
 
