@@ -96,3 +96,11 @@ Where
 <li> Present the % of the first-sight queries replied, and the time consumed</li>
 
   
+## Required python libaries
+<br>
+<li>rdflib</li>
+<li>pandas</li>
+<li>SPARQLWrappe</li>
+<li>numpy</li>
+<li>sys</li>
+<li>JSON</li>
