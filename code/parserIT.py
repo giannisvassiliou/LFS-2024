@@ -84,7 +84,7 @@ for ll in lista:
             break
         if co==30:
             #break
-            print("thirdy")                   
+            #print("thirdy")                   
         triples = line.split(',') 
     
         query = 'SELECT * WHERE { ' # initialize query
