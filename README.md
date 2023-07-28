@@ -54,7 +54,9 @@ limit: a SPARQL limit {e.g. 500}
 <li>
 urlendpoint: a valid url endpoint ( e.g.  https://yago-knowledge.org/sparql/query )
 </li>
-
+<br>
+<b> We have stored in data folder result-examples for the 3 datasets we used (DBPedia, YAGO, WikiData) </b>
+<br> These files can be used directly from the LFS EVALUTATOR
 ## LFS Evaluator
 
 You need to provide two INPUT files (<b> orig_summary_filename</b> and <b> queries_for_summary</b> ) and one filename for OUTPUT (the actual <b> .nt LFS Summary </b>) ,  finally  the <b> address_of_endpoint </b>{OPTIONAL}
