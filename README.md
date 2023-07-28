@@ -75,11 +75,12 @@ USAGE:  lfs orig_summary_filename queries_for_summary LFS_summary_output {url of
 <li> address_of_endpoint: if given, the system will try to evaluate the queries cannot be answered by the LFS Summary, from the endpoint
 </li>
 
+<br>
 
-The previous script, will:
-<li> create the train/test portions from the orig_summary_filename </li>
-<li> create the lfs .nt summary (from the train portion</li>
-<li> query the .nt summary created with the test queries</li>
+<b>The previous script, will:</b?
+<li> Create the train/test portions from the orig_summary_filename </li>
+<li> Create the lfs .nt summary (from the train portion)</li>
+<li> Query the .nt summary created with the test queries</li>
 <li> Present the % of the first-sight queries replied, and the time consumed</li>
 
   
