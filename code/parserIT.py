@@ -82,9 +82,7 @@ for ll in lista:
         line = f.readline()
         if not line:
             break
-        if co==30:
-            #break
-            #print("thirdy")                   
+                     
         triples = line.split(',') 
     
         query = 'SELECT * WHERE { ' # initialize query
