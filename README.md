@@ -100,7 +100,7 @@ Where
 <br>
 <li>rdflib</li>
 <li>pandas</li>
-<li>SPARQLWrappe</li>
+<li>SPARQLWrapper</li>
 <li>numpy</li>
 <li>sys</li>
 <li>JSON</li>
