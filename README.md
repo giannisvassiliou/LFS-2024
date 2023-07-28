@@ -96,7 +96,7 @@ Where
 <li> Present the % of the first-sight queries replied, and the time consumed</li>
 
   
-## Required python libaries
+## Required Python(3.9) libaries
 <br>
 <li>rdflib</li>
 <li>pandas</li>
