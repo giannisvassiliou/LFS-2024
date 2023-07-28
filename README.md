@@ -40,7 +40,7 @@ where
 queryfile : The name of the original querylog (see data folder, choose e.g YAGO_orig_quer.txt) 
 </li>
 <li>
-flag : 0 or 1  whether we need most frequent results 1 (yes) or  0(no)
+flag : 0 or 1  whether we need most frequent results 1 (yes) or  0 (no)
 </li>
 <li>
 basefilename: a string to base the output file names {e.g yago}
