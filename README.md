@@ -34,9 +34,10 @@
 Firstly we need to create the data by accessing the endpoint of the desired dataset. The parserIT.py script has the following syntax
 <br>
 <br><b> USAGE:  parsertIT queryfile {flag 0/1 mf or non mf}  {basefilename} {limit} {urlendpoint} </b>
+<br>
 <b>
 Where
-<b>
+</b>
 <li>
 queryfile : The name of the original querylog (see data folder, choose e.g YAGO_orig_quer.txt) 
 </li>
@@ -68,7 +69,7 @@ USAGE:  lfs orig_summary_filename queries_for_summary LFS_summary_output {url of
 <br>
 <b>
 Where
-<b>
+</b>
 <li>
  orig_summary_filename: The filename of the summary that parserIT produced
  </li>
