@@ -57,7 +57,7 @@ urlendpoint: a valid url endpoint ( e.g.  https://yago-knowledge.org/sparql/quer
 
 ## LFS Evaluator
 
-You need to provide two INPUT files (<b> orig_summary_filename</b> and <b> queries_for_summary</b> ) and one filename for OUTPUT(the actual .nt LFS Summary) ,  finally  the address_of_endpoint <b>{OPTIONAL} </b>
+You need to provide two INPUT files (<b> orig_summary_filename</b> and <b> queries_for_summary</b> ) and one filename for OUTPUT (the actual <b> .nt LFS Summary </b>) ,  finally  the <b> address_of_endpoint </b>{OPTIONAL}
 <br><b> <br>
 USAGE:  lfs orig_summary_filename queries_for_summary LFS_summary_output {url of endpoint-optional) </b>
 
