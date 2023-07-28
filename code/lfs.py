@@ -307,7 +307,7 @@ for result in reslist:
                 except Exception as s:
                     print(s,end=" ")    
     end = time.time()
-    print('Elapses time for LFS ',str(end - start-occu))
+    print('Elapsed time for LFS ',str(end - start-occu))
     print("Elapsed time for ENDPOINT",str(occu))
     #print("NOALL "+str(noall)+
           
