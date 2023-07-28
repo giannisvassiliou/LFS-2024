@@ -59,13 +59,13 @@ urlendpoint: a valid url endpoint ( e.g.  https://yago-knowledge.org/sparql/quer
 
 You need to provide two INPUT files (lfs_summary_filename lfs_queries_for_summary) and one filename for OUTPUT  and finally  the address_of_endpoint {OPTIONAL} 
 <br><b> <br>
-USAGE:  lfs lfs_summary_filename lfs_queries_for_summary LFS_summary_output {url of endpoint-optional) </b>
+USAGE:  lfs orig_summary_filename queries_for_summary LFS_summary_output {url of endpoint-optional) </b>
 
 <li>
- lfs_summary_filename: The filename of the summary that parserIT produced
+ orig_summary_filename: The filename of the summary that parserIT produced
  </li>
  <li>
- lfs_queries_for_summary: The filename of the previous summary, corresponding queries
+ queries_for_summary: The filename of the previous summary, corresponding queries
  
 </li>
 <li>
