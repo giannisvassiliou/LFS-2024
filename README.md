@@ -58,7 +58,7 @@ limit: a SPARQL limit {e.g. 500}
 urlendpoint: a valid url endpoint ( e.g.  https://yago-knowledge.org/sparql/query )
 </li>
 <br>
-<b> We have stored in data folder result-examples for the 3 datasets we used (DBpedia, YAGO, Wikidata) </b>
+<b> We have stored in data folder results-examples for the 3 datasets we used (DBpedia, YAGO, Wikidata) </b>
 <br> These files can be used directly from the LFS Evaluator
 
 <br> <br>
