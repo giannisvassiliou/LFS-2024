@@ -77,7 +77,8 @@ USAGE:  lfs orig_summary_filename queries_for_summary LFS_summary_output {url of
 
 <br>
 
-<b>The previous script, will:</b?
+<b>The previous script, will:</b>
+<br>
 <li> Create the train/test portions from the orig_summary_filename </li>
 <li> Create the lfs .nt summary (from the train portion)</li>
 <li> Query the .nt summary created with the test queries</li>
