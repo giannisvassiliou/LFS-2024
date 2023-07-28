@@ -31,7 +31,47 @@
 
 ## LFS Data Creator
 
-Firstly we need to create the data accessing the endpoint of the desired dataset. The creator.py script has <b> four </b>  arguments
-The first two are input arguments: The file containing the query log and the url of the endpoint.
-The next two are output arguments (two files are going to be created):
-The First output file will be the answered queries from the endpoint. The second output file will be the corresponing queries for the previous answers
+Firstly we need to create the data accessing the endpoint of the desired dataset. The parsetIT.py script has the following syntax
+<br><b> USAGE parsertIT queryfile {flag0/1 mf or non mf}  {basefilename} {limit} {urlendpoint} </b>
+
+where
+<li>
+queryfile : The name of the original querylog (see data e.g YAGO_orig_quer.txt) 
+</li>
+<li>
+flag : 0 or 1  whether we need most frequent results 1 (yes) or  0(no)
+</li>
+<li>
+basefilename: a string to base the output file names {e.g yago}
+</li>
+
+
+
+<li>
+limit: a SPARQL limit {e.g. 500}
+</li>
+<li>
+urlendpoint: a valid url endpoint ( e.g.  https://yago-knowledge.org/sparql/query )
+</li>
+
+## LFS Evaluator
+
+You need to provide two INPUT files (lfs_summary_filename lfs_queries_for_summary) and one filename for OUTPUT  and finally address_of_endpoint{OPTIONAL} 
+<br><b> <br>
+USAGE:  lfs lfs_summary_filename lfs_queries_for_summary LFS_summary_output {url of endpoint-optional) </b>
+
+<li>
+ lfs_summary_filename: The filename of the summary that parserIT produced
+ </li>
+ <li>
+ lfs_queries_for_summary: The filename of the previous summary, corresponding queries
+ 
+</li>
+<li>
+ LFS_summary_output: The final .nt file of the actual LFS summary
+</li>
+
+<li> address_of_endpoint: if given, the system will try to evaluate the queries cannot be answered by the LFS Summary, from the endpoint
+</li>
+
+  
