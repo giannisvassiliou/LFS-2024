@@ -95,7 +95,7 @@ Where
 <li> Query the .nt summary created with the test queries</li>
 <li> Present the % of the first-sight queries replied, and the time consumed</li>
 
- ## Used Python v3.9 - Required Python libaries
+ ## Used Python v3.9 - Required Python libraries
 <br>
 <li>rdflib</li>
 <li>pandas</li>
