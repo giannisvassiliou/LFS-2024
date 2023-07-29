@@ -1,4 +1,4 @@
-from elasticsearch.serializer import np
+# to erase ,\n  from query file produced by parserIT.py
 import pandas as pd
 
 file1 = open("goodqueriesYAGO1.txt", 'r',encoding="utf8")
