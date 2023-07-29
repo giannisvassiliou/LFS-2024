@@ -263,6 +263,8 @@ for ll in lista:
             new_tripl=trippi.strip()
             
             line2=lin.replace(',\n','\n').replace("\n","").replace('\r', '')
+            line2=line2.rstrip(",")
+
             #line2=line2.replace("http://","https://")
             new_triple2=got5.replace(',\n','\n').replace("\n","").replace('\r', '')
             new_triple22=got10.replace(',\n','\n').replace("\n","").replace('\r', '')
