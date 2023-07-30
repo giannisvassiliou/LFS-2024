@@ -1,4 +1,3 @@
-#from elasticsearch.serializer import npa
 import pandas as pd
 import numpy as np
 import sys,getopt
