@@ -11,12 +11,12 @@ time to be answered, or even worse they time out, limiting the
 exploration potential of the data they expose.
 In this paper, we present the LFS (Love-at-First-Sight) system,
 offering a unique solution to the aforementioned problem, enabling
-users to get the first answers to their queries rapidly. 
-More specifically we are the first to define the problem of constructing a firstsight summary, i.e.,
-a summary able to provide rapidly the firstanswers to user queries. We provide effective algorithms for their
+users to get the first answers to their queries rapidly. More specifically we are the first to define the problem of constructing a firstsight summary, i.e., a summary able to provide rapidly the first
+answers to user queries. We provide effective algorithms for their
 construction, relying on existing query logs, and we both analytically and experimentally show the big benefits of the proposed
 summaries. They have a compact size, and they can efficiently
-provide first answers (even to unseen) user q
+provide first answers (even to unseen) user queries, improving by
+orders of magnitude query response times
  <p align="center">
 
 </p>
