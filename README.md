@@ -21,7 +21,7 @@ orders of magnitude query response times
 
 </p>
 <p align="center">
-  <img src="https://github.com/giannisvassiliou/LFS-ICDE-2024/blob/main/Architecture.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/giannisvassiliou/LFS-ICDE-2024/blob/main/lfs2.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ## LFS Data Creator
