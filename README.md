@@ -18,7 +18,7 @@ summaries. They have a compact size, and they can efficiently
 provide first answers (even to unseen) user queries, improving by
 orders of magnitude query response times
  <p align="center">
-
+ 
 </p>
 <p align="center">
   <img src="https://github.com/giannisvassiliou/LFS-ICDE-2024/blob/main/lfs2.JPG?raw=true" alt="Sublime's custom image"/>
